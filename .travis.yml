@@ -2,3 +2,4 @@
   python:
     - "3.8"
   scrypt:
+    python main.py
