@@ -13,6 +13,7 @@ def print_hi(name):
 if __name__ == '__main__':
     print_hi('Hello World! Hello TravisCI!!!')
     print_hi('Hello World! Hello TravisCI!!! ...................')
+    print_hi('Hello World! Hello TravisCI!!! ..................1234')
     print_hi('Hello! Testing Travis staging')
     
 
